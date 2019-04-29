@@ -16,6 +16,7 @@ and here is something too about deployment
 
 ## How To Contribute
 
+forking something or whatever
 bla bla more useless text
 
 #Copyright
