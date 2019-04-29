@@ -17,3 +17,7 @@ and here is something too about deployment
 ## How To Contribute
 
 bla bla more useless text
+
+#Copyright
+
+2019 Git.Training
