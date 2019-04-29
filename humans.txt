@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jogobella lalala@lala.com
 
 # THANKS
 
