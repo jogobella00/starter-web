@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 New line for learning rebasing, more changes from another branch.
+Next line for stashing.
 
 ## Introduction
 
