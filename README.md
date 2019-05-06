@@ -22,4 +22,4 @@ bla bla more useless text
 
 #Copyright
 
-2019 Git.Training
+2019 Git.Training for stashing change
